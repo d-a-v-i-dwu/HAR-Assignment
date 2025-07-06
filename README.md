@@ -6,7 +6,7 @@
 
 ENGSCI712 Human Activity Recognition Assignment
 
-Developing a simple machine learning algorithm for human activity recognition to classify self-recorded instances of running and walking. 
+Developing a simple machine learning algorithm for human activity recognition to classify self-recorded instances of running and walking. Can be examined in reports\Engsci_712_A1.html
 
 Submitted for class EngSci 712.
 
